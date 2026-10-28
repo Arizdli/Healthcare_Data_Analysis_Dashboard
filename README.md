@@ -25,3 +25,6 @@ An interactive Power BI dashboard that analyzes patient demographics, diagnoses,
 ## Dashboard
 <img width="2075" height="1200" alt="Healthcare screenshot" src="https://github.com/user-attachments/assets/dc9c0136-8b62-4751-8263-92a2f95309e1"/>
 
+## Author
+Ariz Ahmad
+
